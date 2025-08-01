@@ -1,0 +1,2 @@
+The project is a MATLAB Simulink based power system simulation model of a 43 Bus Power System Grid Network
+with Integrated Wind Power Generation, PV Solar Farm, Li-ion Battery Energy Storage System (BESS), House Distributive Network, and Fault Detector
